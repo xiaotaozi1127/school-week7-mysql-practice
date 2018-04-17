@@ -6,3 +6,14 @@ practice1
 +----+----------+-----+--------+-----------+--------+
 1 row in set (0.00 sec)
 
+practice2
++--------------+---------------+
+| company_name | employee_name |
++--------------+---------------+
+| baidu        | xiaoming      |
+| alibaba      | xiaohong      |
+| tengxun      | xiaozhi       |
++--------------+---------------+
+3 rows in set (0.00 sec)
+
+
